@@ -10,7 +10,7 @@ while True:
             4- dividir 
         """)
 
-    valor = int(input("Elige una opcion: ") )     
+    valor = int(input("Elige una opcion (1-4): ") )     
 
     if valor == 1:
         print("la suma es",num1+num2)
